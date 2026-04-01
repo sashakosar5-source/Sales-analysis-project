@@ -26,6 +26,6 @@ Applied the =TRIM() function to eliminate leading, trailing, and extra spaces be
 Adjusted data types
 Converted numeric columns from Currency format to Number format for accurate calculations and analysis.
 
-✅ Result:
+Result:
 
 The dataset became clean, consistent, and ready for further analysis and visualization.
