@@ -52,35 +52,33 @@ In terms of profitability:
 - Northern region showed the weakest performance 
 #### Conclusion:
 The Western region is the key market for the business, while the Northern region may require additional marketing efforts or strategic improvements.
-3. Sales Channels & Customer Behavior
+### 3. Sales Channels & Customer Behavior
 Revenue by channel:
-•	Website – highest revenue 
-•	TikTok 
-•	Referral 
-•	Instagram – lowest revenue among channels 
+- Website – highest revenue 
+- TikTok 
+- Referral 
+- Instagram – lowest revenue among channels 
 Additionally, the dataset shows no repeat purchases, meaning each customer made only one order.
-Conclusion:
-•	The website is the most effective sales channel and should remain the primary focus. 
-•	The absence of repeat customers highlights a major growth opportunity.
+####Conclusion:
+- The website is the most effective sales channel and should remain the primary focus. 
+- The absence of repeat customers highlights a major growth opportunity.
 Implementing retention strategies (e.g., discounts, loyalty programs, or follow-up campaigns) could significantly increase revenue. 
-4. Customer Demographics
+### 4. Customer Demographics
 Across all age groups (young, middle-aged, and older), female customers consistently made more purchases than male customers.
 Conclusion:
 The target audience is predominantly female, suggesting that marketing strategies should be tailored accordingly.
-5. Time-Based Trends (Seasonality)
-•	Neon signs performed best in March 
-•	Insta tag peaked in August 
-Conclusion:
+### 5. Time-Based Trends (Seasonality)
+- Neon signs performed best in March
+- Insta tag peaked in August 
+#### Conclusion:
 Sales exhibit seasonality, and marketing campaigns should be aligned with peak months for each product category.
-6. Business Type Analysis
-•	Tattoo salons generated the highest revenue 
-•	Retail stores contributed the least 
-Conclusion:
+### 6. Business Type Analysis
+- Tattoo salons generated the highest revenue 
+- Retail stores contributed the least 
+#### Conclusion:
 Tattoo salons represent the most valuable customer segment, and the business could benefit from focusing more on this niche while reassessing its strategy for retail clients.
-Overall Conclusion
+## Overall Conclusion
 This analysis reveals key revenue drivers, high-performing regions, and customer behavior patterns.
 The business shows strong performance in specific segments (neon signs, Western region, tattoo salons) but also has clear opportunities for growth, particularly in customer retention and underperforming regions/channels.
  
 
-
-<img width="468" height="661" alt="image" src="https://github.com/user-attachments/assets/28e75a84-9e76-4ad5-8ceb-bec2fd250aee" />
