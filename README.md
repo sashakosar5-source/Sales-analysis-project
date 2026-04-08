@@ -1,6 +1,6 @@
 # Data Cleaning Process
 Before performing the analysis, the dataset was cleaned and standardized to ensure accuracy and consistency.
-Steps performed:
+## Steps performed:
 - 1.	Removed duplicates
 Identified and removed duplicate records to avoid double counting and ensure data integrity.
 - 2.	Standardized text values
