@@ -21,17 +21,17 @@ The dataset became clean, consistent, and ready for further analysis and visuali
 # Data Analysis
 After cleaning the dataset, additional calculated fields were created to enhance analysis and extract meaningful insights.
 Steps performed:
-1. Revenue calculation
-Created a new column to calculate total revenue for each transaction. (=L2*K2)
-2. Profit calculation
-Calculated profit using the formula:
-Profit = Revenue - Unit Cost (=N2-(M2*K2))
-3. Customer segmentation by age
-Used the =IF function to group customers into three categories:
+### 1. Revenue calculation
+- Created a new column to calculate total revenue for each transaction. (=L2*K2)
+### 2. Profit calculation
+- Calculated profit using the formula:
+- Profit = Revenue - Unit Cost (=N2-(M2*K2))
+### 3. Customer segmentation by age
+#### Used the =IF function to group customers into three categories:
 =IF(I2<=35,"Young",IF(I2<=49,"Middle Age",IF(I2>=50,"Old")))
-•	Young
-•	Middle Age
-•	Old
+- Young
+- Middle Age
+- Old
 This segmentation helps analyze customer behavior across different age groups.
 4. Time-based analysis (Month column)
 Extracted the month from the order date to simplify time-based analysis and identify trends over time.
