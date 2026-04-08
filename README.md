@@ -39,7 +39,7 @@ This segmentation helps analyze customer behavior across different age groups.
 #### These transformations enabled deeper analysis of sales performance, customer segmentation, and monthly trends.
 
 # 📊 Key Insights & Findings
-####In this project, I conducted a comprehensive sales analysis of a sign business using Excel, focusing on product performance, regional distribution, customer behavior, and revenue trends.
+#### In this project, I conducted a comprehensive sales analysis of a sign business using Excel, focusing on product performance, regional distribution, customer behavior, and revenue trends.
 ### 1. Product Performance
 Neon signs were the primary revenue driver, generating a total of $4,123,675 over the year.
 Insta tag contributed significantly less, with total revenue of $453,418.
