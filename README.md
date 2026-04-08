@@ -65,7 +65,7 @@ Additionally, the dataset shows no repeat purchases, meaning each customer made 
 Implementing retention strategies (e.g., discounts, loyalty programs, or follow-up campaigns) could significantly increase revenue. 
 ### 4. Customer Demographics
 Across all age groups (young, middle-aged, and older), female customers consistently made more purchases than male customers.
-Conclusion:
+#### Conclusion:
 The target audience is predominantly female, suggesting that marketing strategies should be tailored accordingly.
 ### 5. Time-Based Trends (Seasonality)
 - Neon signs performed best in March
