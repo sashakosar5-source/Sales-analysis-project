@@ -1,3 +1,5 @@
+
+<img width="1364" height="452" alt="Dashboard" src="https://github.com/user-attachments/assets/3df05672-866c-47a1-9669-585d7e89f085" />
 # Data Cleaning Process
 Before performing the analysis, the dataset was cleaned and standardized to ensure accuracy and consistency.
 ## Steps performed:
