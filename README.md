@@ -1,12 +1,12 @@
-#Data Cleaning Process#
+# Data Cleaning Process
 Before performing the analysis, the dataset was cleaned and standardized to ensure accuracy and consistency.
 Steps performed:
-1.	Removed duplicates
+- 1.	Removed duplicates
 Identified and removed duplicate records to avoid double counting and ensure data integrity.
-2.	Standardized text values
+- 2.	Standardized text values
 Used Find & Replace (Ctrl + H) to correct inconsistent naming:
-•	"IT" → "Insta Tag"
-•	"Neon" → "Neon Sign"
+- •	"IT" → "Insta Tag"
+- •	"Neon" → "Neon Sign"
 3.	Formatted text consistency
 Applied the =PROPER() function to ensure all text values follow proper capitalization (first letter uppercase).
 4.	Corrected spelling errors
