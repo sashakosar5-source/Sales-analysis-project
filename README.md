@@ -1,4 +1,4 @@
-Data Cleaning Process
+#Data Cleaning Process
 Before performing the analysis, the dataset was cleaned and standardized to ensure accuracy and consistency.
 Steps performed:
 1.	Removed duplicates
@@ -17,4 +17,4 @@ Applied the =TRIM() function to eliminate leading, trailing, and extra spaces be
 Converted numeric columns from Currency format to Number format for accurate calculations and analysis.
 Result:
 The dataset became clean, consistent, and ready for further analysis and visualization
-<img width="468" height="515" alt="image" src="https://github.com/user-attachments/assets/6aabf3f4-6c7e-4b18-b968-f14e4d287406" />
+<img width="468" height="515" alt="image" src="https://github.com/user-attachments/assets/7515ee63-747e-4f42-88d8-c66ff43013e2" />
