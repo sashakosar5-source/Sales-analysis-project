@@ -34,28 +34,23 @@ Steps performed:
 - Old
 This segmentation helps analyze customer behavior across different age groups.
 ### 4. Time-based analysis (Month column)
-#### Extracted the month from the order date to simplify time-based analysis and identify trends over time.
+- Extracted the month from the order date to simplify time-based analysis and identify trends over time.
 ### Result
 #### These transformations enabled deeper analysis of sales performance, customer segmentation, and monthly trends.
 
-
-
-
-
-
-📊 Key Insights & Findings
-In this project, I conducted a comprehensive sales analysis of a sign business using Excel, focusing on product performance, regional distribution, customer behavior, and revenue trends.
-1. Product Performance
+# 📊 Key Insights & Findings
+####In this project, I conducted a comprehensive sales analysis of a sign business using Excel, focusing on product performance, regional distribution, customer behavior, and revenue trends.
+### 1. Product Performance
 Neon signs were the primary revenue driver, generating a total of $4,123,675 over the year.
 Insta tag contributed significantly less, with total revenue of $453,418.
 Conclusion:
 The business is highly dependent on neon signs as its core product, indicating a strong product-market fit in this category.
-2. Regional Analysis
+### 2. Regional Analysis
 The highest number of orders came from Western Ukraine, followed by Southern, Eastern, Central, and Northern regions.
 In terms of profitability:
-•	Western region was the most profitable 
-•	Northern region showed the weakest performance 
-Conclusion:
+- Western region was the most profitable 
+- Northern region showed the weakest performance 
+#### Conclusion:
 The Western region is the key market for the business, while the Northern region may require additional marketing efforts or strategic improvements.
 3. Sales Channels & Customer Behavior
 Revenue by channel:
