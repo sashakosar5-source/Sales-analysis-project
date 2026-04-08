@@ -43,7 +43,7 @@ This segmentation helps analyze customer behavior across different age groups.
 ### 1. Product Performance
 Neon signs were the primary revenue driver, generating a total of $4,123,675 over the year.
 Insta tag contributed significantly less, with total revenue of $453,418.
-Conclusion:
+#### Conclusion:
 The business is highly dependent on neon signs as its core product, indicating a strong product-market fit in this category.
 ### 2. Regional Analysis
 The highest number of orders came from Western Ukraine, followed by Southern, Eastern, Central, and Northern regions.
