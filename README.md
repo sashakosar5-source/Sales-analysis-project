@@ -5,8 +5,6 @@
 ## 📌 Project Overview
 This project presents a sales analysis of a custom sign business using Excel. The goal was to transform raw data into clear insights about product performance, sales channels, regional trends, and customer behavior.
 
-An interactive dashboard was built to visualize key metrics and support data-driven decision-making.
-
 An interactive dashboard was built using Pivot Tables and data visualization techniques to uncover actionable insights. The goal of this project is to demonstrate how data-driven analysis can support strategic decision-making, identify high-performing segments, and reveal opportunities for business growth and customer retention.
 
 ## 🚀 Features
