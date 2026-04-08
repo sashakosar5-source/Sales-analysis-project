@@ -1,5 +1,11 @@
+# Sales Dashboard with Excel - Data Analyst Project 📊
 
 <img width="1364" height="452" alt="Dashboard" src="https://github.com/user-attachments/assets/3df05672-866c-47a1-9669-585d7e89f085" />
+
+## 📌 Project Overview
+Welcome to the Sales Dashboard project repository! This project presents a comprehensive sales analysis of a custom sign business using Excel. The analysis covers key business dimensions, including product performance, regional trends, customer demographics, and acquisition channels.
+
+An interactive dashboard was built using Pivot Tables and data visualization techniques to uncover actionable insights. The goal of this project is to demonstrate how data-driven analysis can support strategic decision-making, identify high-performing segments, and reveal opportunities for business growth and customer retention.
 
 # Data Cleaning Process
 Before performing the analysis, the dataset was cleaned and standardized to ensure accuracy and consistency.
