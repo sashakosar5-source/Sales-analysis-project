@@ -16,7 +16,7 @@ Used Find & Replace (Ctrl + H) to correct inconsistent naming:
 ### 6.	Adjusted data types
 - Converted numeric columns from Currency format to Number format for accurate calculations and analysis.
 ### Result:
-The dataset became clean, consistent, and ready for further analysis and visualization.
+#### The dataset became clean, consistent, and ready for further analysis and visualization.
 
 # Data Analysis
 After cleaning the dataset, additional calculated fields were created to enhance analysis and extract meaningful insights.
@@ -33,10 +33,10 @@ Steps performed:
 - Middle Age
 - Old
 This segmentation helps analyze customer behavior across different age groups.
-4. Time-based analysis (Month column)
-Extracted the month from the order date to simplify time-based analysis and identify trends over time.
-Result
-These transformations enabled deeper analysis of sales performance, customer segmentation, and monthly trends.
+### 4. Time-based analysis (Month column)
+#### Extracted the month from the order date to simplify time-based analysis and identify trends over time.
+### Result
+#### These transformations enabled deeper analysis of sales performance, customer segmentation, and monthly trends.
 
 
 
