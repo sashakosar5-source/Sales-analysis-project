@@ -59,7 +59,7 @@ Revenue by channel:
 - Referral 
 - Instagram – lowest revenue among channels 
 Additionally, the dataset shows no repeat purchases, meaning each customer made only one order.
-####Conclusion:
+#### Conclusion:
 - The website is the most effective sales channel and should remain the primary focus. 
 - The absence of repeat customers highlights a major growth opportunity.
 Implementing retention strategies (e.g., discounts, loyalty programs, or follow-up campaigns) could significantly increase revenue. 
