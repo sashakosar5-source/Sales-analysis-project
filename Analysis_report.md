@@ -58,6 +58,7 @@ Revenue by channel:
 - TikTok 
 - Referral 
 - Instagram – lowest revenue among channels 
+
 Additionally, the dataset shows no repeat purchases, meaning each customer made only one order.
 #### Conclusion:
 - The website is the most effective sales channel and should remain the primary focus. 
